@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Administrator\Desktop\유진\C-fdgsgsdgfdf\Class 1th (Variable)\Source.c(13,7): warning C4101: 'grade' :참조되지 않은 지역 변수입니다.
+  Class 1th (Variable).vcxproj -> C:\Users\Administrator\Desktop\유진\C-fdgsgsdgfdf\Program\x64\Debug\Class 1th (Variable).exe
